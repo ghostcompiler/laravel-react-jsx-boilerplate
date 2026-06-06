@@ -98,7 +98,7 @@ tests/                        # PHPUnit feature & unit tests
 **Option A — Laravel installer**
 
 ```bash
-laravel new my-app --using=ghostcompiler/laravel-react-jsx-boilerplate.git
+laravel new my-app --using=ghostcompiler/laravel-react-jsx-boilerplate
 cd my-app
 composer install && npm install
 composer run dev
@@ -107,7 +107,7 @@ composer run dev
 **Option B — Composer**
 
 ```bash
-composer create-project ghostcompiler/laravel-react-jsx-boilerplate.git my-app
+composer create-project ghostcompiler/laravel-react-jsx-boilerplate my-app
 cd my-app
 composer install && npm install
 composer run dev

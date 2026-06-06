@@ -88,13 +88,6 @@ tests/                        # PHPUnit feature & unit tests
 - PHP **8.3+**
 - Composer **2.x**
 - Node.js **22+** (recommended)
-- npm
-
-Tested on **macOS Apple Silicon (M4)** with [ServBay](https://servbay.com).
-
-<p align="left">
-  <img src="https://res.cloudinary.com/djgvfl1tv/image/upload/v1780667063/servbay_edc7jz.png" alt="ServBay" width="120">
-</p>
 
 ---
 

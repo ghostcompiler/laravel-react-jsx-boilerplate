@@ -11,6 +11,11 @@
   <img src="https://img.shields.io/badge/Built%20By-Ghost%20Compiler-0F172A?style=for-the-badge" alt="Ghost Compiler">
 </p>
 
+<p align="center">
+    <img src="https://img.shields.io/github/stars/ghostcompiler/laravel-react-jsx-boilerplate?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/packagist/dt/ghostcompiler/laravel-react-jsx-boilerplate?style=for-the-badge&logo=packagist" />
+</p>
+
 # Laravel React JSX Boilerplate
 
 A blank, production-ready **boilerplate** for building modern Laravel apps with **React and JSX** — not TypeScript.
